@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Dung Vuong
- - 👀 I’m interested in **Web Development**
+ - 👀 I’m interested in **Web Development | Mobile Development | Software Engineer**
  - 🌱 I’m currently learning at SJSU and graduate in Spring 2023
  - 💞️ I’m looking to work with any **company** and collaborate on any **programming projects** 
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dung-vuong-94b496202/)
